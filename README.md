@@ -5,7 +5,7 @@ Replicate the paper [Rainbow: Combining Improvements in Deep Reinforcement Learn
 ## Implemented Algorithms
 - [x] Vanilla DQN
 - [x] Double DQN
-- [x] Noisy Nets/ Factorized Noisy Nets
+- [x] Noisy Nets / Factorized Noisy Nets
 - [x] Multi Step Learning
 - [ ] Distributional RL
 - [ ] Dueling Networks
